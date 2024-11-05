@@ -13,7 +13,7 @@ E-amil:2022111050@mail.hfut.edu.cn
 
 News
 ======
-2024.10.14: I'm going to be a Ph.D. Candidate in Nankai University, supervised by Dengping Fan [范登平](https://dengpingfan.github.io/pages/People.html) and Xiang Li [李翔](https://implus.github.io/). 
+2024.10.14: I'm going to be a Ph.D. Candidate in Nankai University, supervised by [Dengping Fan (范登平)](https://dengpingfan.github.io/pages/People.html) and [Xiang Li (李翔)](https://implus.github.io/). 
 
 2024.09.30: Win the National Scholarship.
 
