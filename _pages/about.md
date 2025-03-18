@@ -13,7 +13,7 @@ E-amil: cllq12@163.com(preferred), 2022111050@mail.hfut.edu.cn
 
 News
 ======
-2025.03.17: One paper is accepted by PR.
+2025.03.17: One paper is accepted by [PR](https://www.sciencedirect.com/science/article/pii/S0031320325002754).
 
 2025.03.07: Outstanding Graduate of Anhui Province.
 
