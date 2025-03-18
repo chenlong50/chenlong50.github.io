@@ -9,8 +9,10 @@ redirect_from:
 
 My name is Long Chen (陈龙), and I am currently a third-year master student in the School of Computer Science and Technology, Hefei University of Technology, supervised by Rui Sun (孙锐). My research interests are computer vision and robust multi-modal learning. Recently I have been focusing on Efficient MLLM.
 
-Wechat: Clonger00  Feel free to contact with me～
+Wechat: Clonger00
+
 E-amil: cllq12@163.com(preferred), 2022111050@mail.hfut.edu.cn
+Feel free to contact with me～
 
 News
 ======
