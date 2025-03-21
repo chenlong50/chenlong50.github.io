@@ -19,7 +19,7 @@ News
 ======
 2025.03.17: One paper is accepted by [PR](https://www.sciencedirect.com/science/article/pii/S0031320325002754).
 
-2025.03.07: [Outstanding Graduate of Anhui Province](https://ci.hfut.edu.cn/info/1063/15480.htm).
+2025.03.07: [Outstanding Graduate of Anhui Province](https://ci.hfut.edu.cn/info/1063/15458.htm).
 
 2024.10.14: I'm going to be a 2025 Ph.D. Candidate in [Nankai University](https://cc.nankai.edu.cn/), supervised by [Dengping Fan (范登平)](https://dengpingfan.github.io/pages/People.html) and [Xiang Li (李翔)](https://implus.github.io/). 
 
