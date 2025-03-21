@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Long Chen (陈龙), and I am currently a third-year master student in the School of Computer Science and Technology, Hefei University of Technology, supervised by Rui Sun (孙锐). My research interests are computer vision and robust multi-modal learning. Recently I have been focusing on Efficient MLLM.
+My name is Long Chen (陈龙), and I am currently a third-year master student in the [School of Computer Science and Technology](https://ci.hfut.edu.cn/), Hefei University of Technology, supervised by Rui Sun (孙锐). My research interests are computer vision and robust multi-modal learning. Recently I have been focusing on Efficient MLLM.
 
 Wechat: Clonger00
 
@@ -21,7 +21,7 @@ News
 
 2025.03.07: Outstanding Graduate of Anhui Province.
 
-2024.10.14: I'm going to be a 2025 Ph.D. Candidate in Nankai University, supervised by [Dengping Fan (范登平)](https://dengpingfan.github.io/pages/People.html) and [Xiang Li (李翔)](https://implus.github.io/). 
+2024.10.14: I'm going to be a 2025 Ph.D. Candidate in [Nankai University](https://cc.nankai.edu.cn/), supervised by [Dengping Fan (范登平)](https://dengpingfan.github.io/pages/People.html) and [Xiang Li (李翔)](https://implus.github.io/). 
 
 2024.09.30: [National Scholarship](https://ci.hfut.edu.cn/info/1063/15083.htm).
 
