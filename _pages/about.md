@@ -25,7 +25,7 @@ News
 
 2024.09.30: [National Scholarship](https://ci.hfut.edu.cn/info/1063/15083.htm).
 
-2024.09.27: One paper is accepted by 软件学报.
+2024.09.27: One paper is accepted by [软件学报](https://www.jos.org.cn/jos/article/abstract/7293).
 
 2024.09.18: One paper is accepted by [SPL](https://ieeexplore.ieee.org/abstract/document/10689388).  
 
