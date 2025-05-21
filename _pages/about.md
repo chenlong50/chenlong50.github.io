@@ -21,7 +21,7 @@ News
 
 2025.03.07: [Outstanding Graduate of Anhui Province](https://ci.hfut.edu.cn/info/1063/15458.htm).
 
-2024.10.14: I'm going to be a 2025 Ph.D. Candidate in [Nankai University](https://cc.nankai.edu.cn/), supervised by [Dengping Fan (范登平)](https://dengpingfan.github.io/pages/People.html) and [Xiang Li (李翔)](https://implus.github.io/). 
+2024.10.14: I receive the offer of 2025 Ph.D. Candidate in [Nankai University](https://cc.nankai.edu.cn/), supervised by [Dengping Fan (范登平)](https://dengpingfan.github.io/pages/People.html) and [Xiang Li (李翔)](https://implus.github.io/). 
 
 2024.09.30: [National Scholarship](https://ci.hfut.edu.cn/info/1063/15083.htm).
 
