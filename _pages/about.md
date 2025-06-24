@@ -9,9 +9,9 @@ redirect_from:
 
 My name is Long Chen (陈龙), and I am currently a third-year master student in the [School of Computer Science and Technology](https://ci.hfut.edu.cn/), Hefei University of Technology, supervised by [Rui Sun (孙锐)](https://faculty.hfut.edu.cn/sr1/zh_CN/index.htm). I'm going to be a 2025 Ph.D. Candidate in [Nankai University](https://cc.nankai.edu.cn/), supervised by [Dengping Fan (范登平)](https://dengpingfan.github.io/pages/People.html) and [Xiang Li (李翔)](https://implus.github.io/). My research interests are computer vision and robust multi-modal learning. Recently I have been focusing on Efficient MLLMs.
 
-Wechat: Clonger00
+<strong><i>Wechat:</i></strong> Clonger00
 
-E-amil: cllq12@163.com(preferred), 2022111050@mail.hfut.edu.cn
+<strong><i>E-amil: </i></strong>cllq12@163.com
 
 Feel free to contact with me～
 
@@ -22,7 +22,9 @@ Feel free to contact with me～
   <li>
    <strong><i>- 2025.03.17:</i></strong> 🎉 One paper is accepted by [PR](https://www.sciencedirect.com/science/article/pii/S0031320325002754).
   </li>
-   - 2025.03.07: 🎉 [Outstanding Graduate of Anhui Province](https://ci.hfut.edu.cn/info/1063/15458.htm).
+  <li>
+    - 2025.03.07: 🎉 [Outstanding Graduate of Anhui Province](https://ci.hfut.edu.cn/info/1063/15458.htm).
+  </li> 
   <li>
    - 2024.10.14: 🎉 I receive the offer of 2025 Ph.D. Candidate in [Nankai University](https://cc.nankai.edu.cn/), supervised by [Dengping Fan (范登平)](https://dengpingfan.github.io/pages/People.html) and [Xiang Li (李翔)](https://implus.github.io/). 
   </li>
