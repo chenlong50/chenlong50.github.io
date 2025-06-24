@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is **Long Chen (陈龙)**, and I am currently a third-year master student in the [School of Computer Science and Information Engineering](https://ci.hfut.edu.cn/), Hefei University of Technology, supervised by [Rui Sun (孙锐)](https://faculty.hfut.edu.cn/sr1/zh_CN/index.htm). I'm going to be a 2025 Ph.D. Candidate in [Nankai University](https://cc.nankai.edu.cn/), supervised by [Dengping Fan (范登平)](https://dengpingfan.github.io/pages/People.html) and [Xiang Li (李翔)](https://implus.github.io/). My research interests are computer vision and robust multi-modal learning. Recently I have been focusing on Efficient MLLMs.
+Hi! My name is **Long Chen (陈龙)**, currently a 1st year Ph.D. Candidate at [VCIP Lab](https://mmcheng.net/cmm/), [Nankai University](https://cc.nankai.edu.cn/). I am conducting research under the guidance of [Prof. Dengping Fan (范登平)](https://dengpingfan.github.io/pages/People.html) and [Prof. Xiang Li (李翔)](https://implus.github.io/). Previously, under the supervision of [Prof. Rui Sun (孙锐)](https://faculty.hfut.edu.cn/sr1/zh_CN/index.htm), I received my master's degree and bachelor's degree from [School of Computer Science and Information Engineering](https://ci.hfut.edu.cn/), [Hefei University of Technology](https://www.hfut.edu.cn/) in 2025 and 2022, respectively.
+
+My research interests are computer vision and robust multi-modal learning. Recently I have been focusing on Efficient MLLMs.
 
 <strong><i>- Wechat:</i></strong> Clonger00
 
@@ -19,7 +21,7 @@ Pleasr feel free to contact with me～
 ---
 - <strong><i>2025.03.17:</i></strong> One paper is accepted by [PR](https://www.sciencedirect.com/science/article/pii/S0031320325002754).
 - <strong><i>2025.03.07:</i></strong> 🎉 [Outstanding Graduate of Anhui Province](https://ci.hfut.edu.cn/info/1063/15458.htm).
-- <strong><i>2024.10.14:</i></strong> 🎉 I receive the offer of 2025 Ph.D. Candidate in [Nankai University](https://cc.nankai.edu.cn/), supervised by [Dengping Fan (范登平)](https://dengpingfan.github.io/pages/People.html) and [Xiang Li (李翔)](https://implus.github.io/). 
+- <strong><i>2024.10.14:</i></strong> 🎉 I receive the offer of 2025 Ph.D. Candidate in [Nankai University](https://cc.nankai.edu.cn/), supervised by [Prof. Dengping Fan (范登平)](https://dengpingfan.github.io/pages/People.html) and [Prof. Xiang Li (李翔)](https://implus.github.io/). 
 - <strong><i>2024.09.30:</i></strong> 🎉 [National Scholarship](https://ci.hfut.edu.cn/info/1063/15083.htm).
 - <strong><i>2024.09.27:</i></strong> One paper is accepted by [软件学报](https://www.jos.org.cn/jos/article/abstract/7293).
 - <strong><i>2024.09.18:</i></strong> One paper is accepted by [SPL](https://ieeexplore.ieee.org/abstract/document/10689388).  
@@ -40,16 +42,16 @@ Pleasr feel free to contact with me～
 🏆 Honor & Award
 ---
 ### Competitions and Honors
-- 2025.03.07: Outstanding Graduate of Anhui Province.
-- 2025.03.07: Outstanding Graduate of HFUT.
-- 2024.10.12: Merit Student of HFUT.
-- 2021.11.30: Merit Student of HFUT.
-- 2018.12.09: Champion of the "Freshman Cup" Basketball Game of the School of Computer Science and Information Engineering, HFUT.
+- <strong><i>2025.03.07:</i></strong> Outstanding Graduate of Anhui Province.
+- <strong><i>2025.03.07:</i></strong> Outstanding Graduate of HFUT.
+- <strong><i>2024.10.12:</i></strong> Merit Student of HFUT.
+- <strong><i>2021.11.30:</i></strong> Merit Student of HFUT.
+- <strong><i>2018.12.09:</i></strong> Champion of the "Freshman Cup" Basketball Game of the School of Computer Science and Information Engineering, HFUT.
 
 ### Scholarships
-- 2024.09.30: National Scholarship.
-- 2021.12.01: The Third Prize Scholarship of HFUT.
-- 2020.12.01: Individual Scholarship of HFUT.
+- <strong><i>2024.09.30:</i></strong> National Scholarship.
+- <strong><i>2021.12.01:</i></strong> The Third Prize Scholarship of HFUT.
+- <strong><i>2020.12.01:</i></strong> Individual Scholarship of HFUT.
 
 📰 Academic Services
 ---
@@ -57,7 +59,14 @@ Pleasr feel free to contact with me～
 - CVPR 2025
 - AISTATS 2025
 - NeurIPS 2024
+
 ### Journal Reviewer
 - TIFS
 - PR
 - MIR
+
+🎓 Experience
+---
+- <strong><i>2025.09 - now:</i></strong> Ph.D. Candidate in College of Computer Science, Nankai University, China.
+- <strong><i>2022.09 - 2025.06:</i></strong> M.S. in School of Computer Science and Information Engineering, Hefei University of Technology, China.
+- <strong><i>2018.09 - 2022.06:</i></strong> B.S. in School of Computer Science and Information Engineering, Hefei University of Technology, China.
