@@ -17,6 +17,7 @@ Feel free to contact with me～
 
 🔥 News
 ======
+<ul>
 - 2025.03.17: 🎉 One paper is accepted by [PR](https://www.sciencedirect.com/science/article/pii/S0031320325002754).
 
 - 2025.03.07: 🎉 [Outstanding Graduate of Anhui Province](https://ci.hfut.edu.cn/info/1063/15458.htm).
@@ -32,7 +33,7 @@ Feel free to contact with me～
 - 2024.07.31: 🎉 One paper is accepted by [IVC](https://www.sciencedirect.com/science/article/pii/S0262885624003068).
 
 - 2024.01.10: 🎉 One paper is accepted by [TIFS](https://ieeexplore.ieee.org/abstract/document/10400493).
-
+</ul>
 
 🔥 News
 ======
