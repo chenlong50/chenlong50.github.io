@@ -20,7 +20,7 @@ Feel free to contact with me～
 <hr>
 <ul>
   <li>
-   - 2025.03.17: 🎉 One paper is accepted by [PR](https://www.sciencedirect.com/science/article/pii/S0031320325002754).
+   <strong><i>- 2025.03.17:</i></strong> 🎉 One paper is accepted by [PR](https://www.sciencedirect.com/science/article/pii/S0031320325002754).
   </li>
    - 2025.03.07: 🎉 [Outstanding Graduate of Anhui Province](https://ci.hfut.edu.cn/info/1063/15458.htm).
   <li>
@@ -43,44 +43,3 @@ Feel free to contact with me～
   </li>
 </ul>
 
-🔥 News
-======
-<hr>
-<ul>
-  <li>
-    <strong><i>2025.05:</i></strong> 🎉 One co-first-authored paper is accepted by TCSVT.
-  </li>
-  <li>
-    <strong><i>2025.05:</i></strong> 🎉 One first-authored paper is accepted by Pattern Recognition.
-  </li>
-  <li>
-    <strong><i>2025.05:</i></strong> 🎉 One corresponding-authored paper is accepted by ICML 2025.
-  </li>
-   <li>
-    <strong><i>2025.01:</i></strong> 🎉 I was supported by Young Elite Scientists Sponsorship Program by CAST - Doctoral Student Special Plan.
-  </li>
-   <li>
-    <strong><i>2024.09:</i></strong> 🎉 One first-authored paper is accepted by NeurIPS 2024.
-  </li>
-     <li>
-    <strong><i>2024.07:</i></strong> 🎉 One co-first-authored paper is accepted by ACM MM 2024.
-  </li>
-   <li>
-    <strong><i>2024.07:</i></strong> 🎉 One first-authored paper about is accepted by ECCV 2024.
-  </li>
-   <li>
-    <strong><i>2024.03:</i></strong> 🎉 One first-authored paper is accepted by CAC 2023.
-  </li>
-  <li>
-    <strong><i>2023.12:</i></strong> 🎉 One first-authored paper is accepted by AAAI 2024.
-  </li>
-  <li>
-    <strong><i>2023.10:</i></strong> 🎉 One first-authored paper is awarded as Best Paper by CCHI 2023.
-  </li>
-  <li>
-    <strong><i>2023.07:</i></strong> 🎉 One first-authored paper is accepted by ICCV 2023.
-  </li>
-  <li>
-    <strong><i>2021.10:</i></strong> 🎉 One first-authored  paper is accepted by ACM MM 2021.
-  </li>
-</ul>
