@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! My name is **Long Chen (陈龙)**, currently a 1st year Ph.D. Candidate at [VCIP Lab](https://mmcheng.net/cmm/), [Nankai University](https://cc.nankai.edu.cn/). I am conducting research under the guidance of [Prof. Dengping Fan (范登平)](https://dengpingfan.github.io/pages/People.html) and [Prof. Xiang Li (李翔)](https://implus.github.io/). Previously, under the supervision of [Prof. Rui Sun (孙锐)](https://faculty.hfut.edu.cn/sr1/zh_CN/index.htm), I received my master's degree and bachelor's degree from [School of Computer Science and Information Engineering](https://ci.hfut.edu.cn/), [Hefei University of Technology](https://www.hfut.edu.cn/) in 2025 and 2022, respectively.
 
-My research interests are computer vision and **robust multi-modal learning**. Recently I have been focusing on **Efficient MLLMs**.
+My research interests are Computer Vision and **Robust Multi-modal Learning**. Recently I have been focusing on **Efficient MLLMs**.
 
 <strong><i>- Wechat:</i></strong> Clonger00
 
@@ -51,7 +51,7 @@ Pleasr feel free to contact with me～
 ### Scholarships
 - <strong><i>2024.09.30:</i></strong> National Scholarship.
 - <strong><i>2021.12.01:</i></strong> The Third Prize Scholarship of HFUT.
-- <strong><i>2020.12.01:</i></strong> Individual Scholarship of HFUT.
+- <strong><i>2020.11.30:</i></strong> Individual Scholarship of HFUT.
 
 📰 Academic Services
 ---
