@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is **Long Chen (陈龙)**, currently a 1st year Ph.D. Candidate at [VCIP Lab](https://mmcheng.net/cmm/), [Nankai University](https://www.nankai.edu.cn/). I am conducting research under the guidance of [Prof. Dengping Fan (范登平)](https://dengpingfan.github.io/pages/People.html) and [Prof. Xiang Li (李翔)](https://implus.github.io/). Previously, I obtained my bachelor's degree and master's degree from [School of Computer Science and Information Engineering](https://ci.hfut.edu.cn/), [Hefei University of Technology](https://www.hfut.edu.cn/) in 2022 and 2025, respectively, under the guidance of [Prof. Rui Sun (孙锐)](https://faculty.hfut.edu.cn/sr1/zh_CN/index.htm).
+Hi! My name is **Long Chen (陈龙)**, currently a 1st year Ph.D. Candidate at [VCIP Lab](https://mmcheng.net/), [Nankai University](https://www.nankai.edu.cn/). I am conducting research under the guidance of [Prof. Dengping Fan (范登平)](https://dengpingfan.github.io/pages/People.html) and [Prof. Xiang Li (李翔)](https://implus.github.io/). Previously, I obtained my bachelor's degree and master's degree from [School of Computer Science and Information Engineering](https://ci.hfut.edu.cn/), [Hefei University of Technology](https://www.hfut.edu.cn/) in 2022 and 2025, respectively, under the guidance of [Prof. Rui Sun (孙锐)](https://faculty.hfut.edu.cn/sr1/zh_CN/index.htm).
 
 My research interests are Computer Vision and **Robust Multi-modal Learning**. Recently I have been focusing on **Efficient MLLMs**.
 
