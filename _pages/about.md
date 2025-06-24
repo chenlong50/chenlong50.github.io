@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Clong's Homepage"
+title: "🎱 Clong's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ My name is **Long Chen (陈龙)**, and I am currently a third-year master studen
 
 <strong><i>- E-amil: </i></strong>cllq12@163.com
 
-Feel free to contact with me～
+Pleasr feel free to contact with me～
  
 🔥 News
 ---
@@ -44,7 +44,7 @@ Feel free to contact with me～
 - 2025.03.07: Outstanding Graduate of HFUT.
 - 2024.10.12: Merit Student of HFUT.
 - 2021.11.30: Merit Student of HFUT.
-- 2018.12.09: Champion of the "Freshman Cup" Basketball Game of the School of Computer Science and Information Engineering, Hefei University of Technology.
+- 2018.12.09: Champion of the "Freshman Cup" Basketball Game of the School of Computer Science and Information Engineering, HFUT.
 
 ### Scholarships
 - 2024.09.30: National Scholarship.
