@@ -61,6 +61,7 @@ Pleasr feel free to contact with me～
 - NeurIPS 2024
 
 ### Journal Reviewer
+- TIP
 - TIFS
 - PR
 - MIR
