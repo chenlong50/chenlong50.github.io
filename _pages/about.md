@@ -19,7 +19,7 @@ Pleasr feel free to contact with me～
  
 🔥 News
 ---
-- <strong><i>2025.09.04:</i></strong> One paper is accepted by TBIOM.
+- <strong><i>2025.09.04:</i></strong> One paper is accepted by [TBIOM](https://ieeexplore.ieee.org/document/11153644).
 - <strong><i>2025.03.17:</i></strong> One paper is accepted by [PR](https://www.sciencedirect.com/science/article/pii/S0031320325002754).
 - <strong><i>2025.03.07:</i></strong> 🎉 I received the [Outstanding Graduate of Anhui Province](https://ci.hfut.edu.cn/info/1063/15458.htm).
 - <strong><i>2024.10.14:</i></strong> 🎉 I received the offer of 2025 Ph.D. Candidate in [Nankai University](https://cc.nankai.edu.cn/), supervised by [Prof. Dengping Fan (范登平)](https://dengpingfan.github.io/pages/People.html) and [Prof. Xiang Li (李翔)](https://implus.github.io/). 
