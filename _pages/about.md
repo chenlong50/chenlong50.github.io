@@ -57,8 +57,8 @@ Pleasr feel free to contact with me～
 📰 Academic Services
 ---
 ### Conference Reviewer
-- CVPR 2025
-- AISTATS 2025
+- CVPR 2025, 2026
+- AISTATS 2025, 2026
 - NeurIPS 2024
 
 ### Journal Reviewer
