@@ -15,7 +15,7 @@ My research interests are Computer Vision and **Robust Multi-modal Learning**. R
 
 <strong><i>- E-amil: </i></strong>cllq12@163.com
 
-Pleasr feel free to contact with me～
+Please feel free to contact with me～
  
 🔥 News
 ---
