@@ -19,7 +19,7 @@ Please feel free to contact with me～
  
 🔥 News
 ---
-- <strong><i>2026.01.25:</i></strong> 🎉 One paper is accepted by [TIFS].
+- <strong><i>2026.01.25:</i></strong> 🎉 One paper is accepted by [TIFS](https://ieeexplore.ieee.org/document/11367017).
 - <strong><i>2025.09.04:</i></strong> One paper is accepted by [TBIOM](https://ieeexplore.ieee.org/document/11153644).
 - <strong><i>2025.03.17:</i></strong> One paper is accepted by [PR](https://www.sciencedirect.com/science/article/pii/S0031320325002754).
 - <strong><i>2025.03.07:</i></strong> 🎉 I received the [Outstanding Graduate of Anhui Province](https://ci.hfut.edu.cn/info/1063/15458.htm).
@@ -35,7 +35,7 @@ Please feel free to contact with me～
 **You can find detailed information about my publications on the [Google Scholar profile](https://scholar.google.com/citations?user=8CnQc-cAAAAJ&hl=zh-CN).**
 
 - **L Chen**, R Sun*, X Wang, G Huang, J Wu, W Jia. Learning Corruption-Invariant Components and Cross-Modal Correspondence for Unsupervised Visible-Infrared Person Re-Identification.
-  IEEE Transactions on Information Forensics and Security 2026. **<font color=Red>(CCF-A)</font>** [Paper]
+  IEEE Transactions on Information Forensics and Security 2026. **<font color=Red>(CCF-A)</font>** [Paper](https://ieeexplore.ieee.org/document/11367017)
 - R Sun*, **L Chen**, T Liao, Z Fan. Self-Supervised Polarization Image Dehazing Method via Frequency Domain Generative Adversarial Networks.
   Pattern Recognition 2025. **(CCF-B)** [Paper](https://www.sciencedirect.com/science/article/pii/S0031320325002754)
 - **L Chen**, R Sun*, Y Yu, Y Du, X Zhang. Visible thermal person re-identification via multi-branch modality residual complementary learning.
