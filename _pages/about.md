@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is **Long Chen (陈龙)**, currently a 1st year Ph.D. Candidate at [VCIP Lab & MCLab](https://mmcheng.net/), [Nankai University](https://www.nankai.edu.cn/). I am conducting research under the guidance of Prof. [Dengping Fan (范登平)](https://dengpingfan.github.io/pages/People.html) and Prof. [Xiang Li (李翔)](https://implus.github.io/). Previously, I obtained my bachelor's degree and master's degree from [School of Computer Science and Information Engineering](https://ci.hfut.edu.cn/), [Hefei University of Technology](https://www.hfut.edu.cn/) in 2022 and 2025, respectively, under the guidance of Prof. [Rui Sun (孙锐)](http://faculty.hfut.edu.cn/sr1/zh_CN/index.htm).
+Hi! My name is **Long Chen (陈龙)**, currently a 1st year Ph.D. Candidate at [VCIP Lab & MCLab](https://mmcheng.net/), [Nankai University](https://www.nankai.edu.cn/). I am conducting research under the guidance of Prof. [Deng-Ping Fan (范登平)](https://dengpingfan.github.io/pages/People.html) and Prof. [Xiang Li (李翔)](https://implus.github.io/). Previously, I obtained my bachelor's degree and master's degree from [School of Computer Science and Information Engineering](https://ci.hfut.edu.cn/), [Hefei University of Technology](https://www.hfut.edu.cn/) in 2022 and 2025, respectively, under the guidance of Prof. [Rui Sun (孙锐)](http://faculty.hfut.edu.cn/sr1/zh_CN/index.htm).
 
 My research interests are Computer Vision and **Robust Multi-modal Learning**. Recently I have been focusing on **Efficient MLLMs**.
 
@@ -23,7 +23,7 @@ Please feel free to contact with me～
 - <strong><i>2025.09.04:</i></strong> One paper is accepted by [TBIOM](https://ieeexplore.ieee.org/document/11153644).
 - <strong><i>2025.03.17:</i></strong> One paper is accepted by [PR](https://www.sciencedirect.com/science/article/pii/S0031320325002754).
 - <strong><i>2025.03.07:</i></strong> 🎉 I received the [Outstanding Graduate of Anhui Province](https://ci.hfut.edu.cn/info/1063/15458.htm).
-- <strong><i>2024.10.14:</i></strong> 🎉 I received the offer of 2025 Ph.D. Candidate in [Nankai University](https://cc.nankai.edu.cn/), supervised by [Prof. Dengping Fan (范登平)](https://dengpingfan.github.io/pages/People.html) and [Prof. Xiang Li (李翔)](https://implus.github.io/). 
+- <strong><i>2024.10.14:</i></strong> 🎉 I received the offer of 2025 Ph.D. Candidate in [Nankai University](https://cc.nankai.edu.cn/), supervised by [Prof. Deng-Ping Fan (范登平)](https://dengpingfan.github.io/pages/People.html) and [Prof. Xiang Li (李翔)](https://implus.github.io/). 
 - <strong><i>2024.09.30:</i></strong> 🎉 I received the [National Scholarship](https://ci.hfut.edu.cn/info/1063/15083.htm).
 - <strong><i>2024.09.27:</i></strong> One paper is accepted by [软件学报](https://www.jos.org.cn/jos/article/abstract/7293).
 - <strong><i>2024.09.18:</i></strong> One paper is accepted by [SPL](https://ieeexplore.ieee.org/abstract/document/10689388).  
