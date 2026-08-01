@@ -38,8 +38,6 @@ Please feel free to contact with me～
   IEEE Transactions on Information Forensics and Security 2026. **<font color=Red>(CCF-A)</font>** [Paper](https://ieeexplore.ieee.org/document/11367017)
 - R Sun*, **L Chen**, T Liao, Z Fan. Self-Supervised Polarization Image Dehazing Method via Frequency Domain Generative Adversarial Networks.
   Pattern Recognition 2025. **(CCF-B)** [Paper](https://www.sciencedirect.com/science/article/pii/S0031320325002754)
-- **L Chen**, R Sun*, Y Yu, Y Du, X Zhang. Visible thermal person re-identification via multi-branch modality residual complementary learning.
-  Image and Vision Computing 2024. (CCF-C) [Paper](https://www.sciencedirect.com/science/article/pii/S0262885624003068)
 - R Sun*, **L Chen**, L Zhang, R Xie, J Gao. Robust Visible-Infrared Person Re-Identification Based on Polymorphic Mask and Wavelet Graph Convolutional Network.
   IEEE Transactions on Information Forensics and Security 2024. **<font color=Red>(CCF-A)</font>** [Paper](https://ieeexplore.ieee.org/abstract/document/10400493)
 
